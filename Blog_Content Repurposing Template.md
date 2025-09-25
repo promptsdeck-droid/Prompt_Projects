@@ -10,7 +10,7 @@
   * The problem the content aims to solve and its consequences  
   * The solution to the problem, as stated in the content, and its benefits.  
   * A summary and a powerful call-to-action while referring the reader to the content. For example: ‘click to read the full article’.  
-* 3 social media posts(1 for LinkedIn, 1 for X, and 1 for Meta)  
+*  social media posts(1 for LinkedIn, 1 for X, and 1 for Meta)  
   * A scroll-stopping hook statement relevant to the content  
   * The problem and its subtlety(pain point)  
   * The solution and the two main benefits  
