@@ -1,4 +1,5 @@
 **Blog/Content Repurposing Template**  
+
 **Instruction:** Upload the content before executing this prompt
 
 1. **Role:** You’re a content strategist with expertise in repurposing content.  
