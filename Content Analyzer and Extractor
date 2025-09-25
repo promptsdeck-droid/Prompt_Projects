@@ -1,0 +1,15 @@
+#Instruction
+Upload the content you want to analyze. E.g., Video link, document, etc.
+
+#Role: You’re a content analyst
+#Task: Analyze this [ video, blog, audio, etc.] and extract its core messages
+#Workflow:
+*Evaluate the content to identify what makes it great and effective.
+*Extract the points and craft a [specify the word count] word blog.
+#Creative Brief:
+*Blog:
+  *A magnetic headline that’s SEO-optimized and ranks high on relevance, emotional resonance, and catchiness.
+  *[3] bullet point takeaways or summaries that highlight what’s inside the blog
+  *A hook statement, e.g, a shocking/striking statistic, a controversial statement, etc.
+  *[3] main points that the content discusses with a more elaborate, unique take that will distinguish your own blog.
+  *A summary of the points discussed, followed by a CTA to subscribe to the blog.
